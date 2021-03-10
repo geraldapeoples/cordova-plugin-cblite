@@ -1,9 +1,13 @@
 # UNDER DEVELOPMENT
 
 
-This repository is originaly fork from [makbari/cordova-plugin-couchbase-lite-2.0](https://github.com/makbari/cordova-plugin-couchbase-lite-2.0) which is originaly fork from [happio/cordova-plugin-couchbase-lite](https://github.com/happieio/cordova-plugin-couchbase-lite) which provides a standard cordova API used for couchbase-mobile version 1.4.1 (also, with small modification, it can be used for couchbase-mobile version 1.5).
+This repository was inspired by [makbari/cordova-plugin-couchbase-lite-2.0](https://github.com/makbari/cordova-plugin-couchbase-lite-2.0) which is originaly fork from [happio/cordova-plugin-couchbase-lite](https://github.com/happieio/cordova-plugin-couchbase-lite).
 
 This repository also takes inspiration from [triniwiz/nativescript-couchbase-plugin](https://github.com/triniwiz/nativescript-couchbase-plugin).
+
+The original versions provided a cordova API used for couchbase-mobile version 1.4.1.
+
+This version supports couchbase lite 2.8.4.
 
 This is a work in progress which requires a lot more testing and is missing some core functionality ... use it at your own risk.
 
