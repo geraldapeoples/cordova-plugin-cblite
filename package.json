@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-cblite",
+  "version": "2.8.4",
+  "description": "Cordova plugin for couchbase lite",
+  "cordova": {
+    "id": "cordova-plugin-cblite",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "cblite",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "gerald@tickaudit.com",
+  "license": "UNLICENSED"
+}
